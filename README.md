@@ -1,7 +1,7 @@
 # Hi there, I'm Arjun S Pai 👋
 
 ### 🎓 Computer Science & Engineering Student @ Govt. Model Engineering College
-I am a passionate developer and problem solver based in Kerala, India[cite: 1, 2]. [cite_start]I specialize in building efficient web applications and tackling complex algorithmic challenges through competitive programming.
+I am a passionate developer and problem solver based in Kerala, India.I specialize in building efficient web applications and tackling complex algorithmic challenges through competitive programming.
 
 ---
 
@@ -17,9 +17,9 @@ I am a passionate developer and problem solver based in Kerala, India[cite: 1, 2
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, Java, C, SQL, Bash Scripting [cite: 34, 35] 
+| **Languages** | Python, JavaScript, Java, C, SQL, Bash Scripting 
 | **Web Development** |Node.js, Express.js, MongoDB, HTML/CSS, React (Beginner)
-| **Tools & Software** | Git, GitHub, VS Code, MongoDB [cite: 36] 
+| **Tools & Software** | Git, GitHub, VS Code, MongoDB  
 | **Focus Areas** | Algorithm Design, Competitive Programming, Innovation Management
 
 ---
