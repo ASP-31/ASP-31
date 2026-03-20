@@ -6,7 +6,6 @@ I am a passionate developer and problem solver based in Kerala, India.I speciali
 ---
 
 ## 🏆 Key Achievements
-* **🌍 NASA Space Apps Challenge 2025 Global Winner:** Contributed to one of the six winning projects globally, developing a web app to forecast air quality using TEMPO satellite data.
 * **🥉 Webcraft 2025 Third Prize:** Built a full website in a 4-hour live competition without the use of AI
 * **🧩 Reverse Coding Finalist:** Two-time finalist (2024 & 2025) in logic-based reverse engineering competitions at Excel, MEC
 * **🥇 KTU Digital 101 Gold Medalist:** Completed an introductory AI course with top honors
@@ -17,7 +16,7 @@ I am a passionate developer and problem solver based in Kerala, India.I speciali
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, Java, C, SQL, Bash Scripting 
+| **Languages** | Python, JavaScript, Java, C, SQL, 
 | **Web Development** |Node.js, Express.js, MongoDB, HTML/CSS, React (Beginner)
 | **Tools & Software** | Git, GitHub, VS Code, MongoDB  
 | **Focus Areas** | Algorithm Design, Competitive Programming, Innovation Management
@@ -27,14 +26,11 @@ I am a passionate developer and problem solver based in Kerala, India.I speciali
 ## 📁 Featured Projects
 
 ### 🛡️ [CodeVault](https://github.com/ASP-31)
-* [cite_start]**Description:** A lightweight, developer-friendly space to store, edit, and manage code snippets in one place[cite: 20].
-* [cite_start]**Stack:** MongoDB, Node.js, Express.js, HTML/CSS/JS[cite: 21].
+* **Description:** A lightweight, developer-friendly space to store, edit, and manage code snippets in one place[cite: 20].
+***Stack:** MongoDB, Node.js, Express.js, HTML/CSS/JS[cite: 21].
 
-### 🛰️ [NASA Space Apps: Air Quality Forecaster](https://github.com/ASP-31)
-* **Description:** A winning project focused on "Predicting Cleaner, Safer Skies" using real-time satellite data and ground measurements.
-
-### 🎬 [Netflix Clone](https://github.com/ASP-31)
-* **Description:** A front-end clone developed during a 5-day intensive workshop
+### ☁️ [AirPro](https://github.com/ASP-31/AirPro)
+* A full-stack investigation tool that goes beyond monitoring to provide accountability. When pollution spikes occur, the system uses a custom AI engine to cross-reference PM2.5/PM10 data with industrial databases, identifying the most likely sources with confidence scores and evidence reasoning
 
 ---
 
