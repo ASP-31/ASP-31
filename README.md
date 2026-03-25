@@ -25,7 +25,7 @@ I am a passionate developer and problem solver based in Kerala, India.I speciali
 
 ## 📁 Featured Projects
 
-### [Wellness Wizard]{https://github.com/ASP-31/Wellness-Wizard}
+### [Wellness Wizard](https://github.com/ASP-31/Wellness-Wizard)
 * **Description:** A personalized diet tracker application where the user can upload the picture of the meal and gets the macros and if its good for him considering his diet and allergies.
 ***Stack:** MongoDB, Node.js, Express.js, HTML/CSS/JS[cite: 21].
 
