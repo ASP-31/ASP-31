@@ -25,9 +25,13 @@ I am a passionate developer and problem solver based in Kerala, India.I speciali
 
 ## 📁 Featured Projects
 
+### [Wellness Wizard]{https://github.com/ASP-31/Wellness-Wizard}
+* **Description:** A personalized diet tracker application where the user can upload the picture of the meal and gets the macros and if its good for him considering his diet and allergies.
+***Stack:** MongoDB, Node.js, Express.js, HTML/CSS/JS[cite: 21].
+
 ### 🛡️ [CodeVault](https://github.com/ASP-31)
 * **Description:** A lightweight, developer-friendly space to store, edit, and manage code snippets in one place[cite: 20].
-***Stack:** MongoDB, Node.js, Express.js, HTML/CSS/JS[cite: 21].
+***Stack:** MongoDB, Node.js, Express.js, React.js, Tailwind CSS.
 
 ### ☁️ [AirPro](https://github.com/ASP-31/AirPro)
 * A full-stack investigation tool that goes beyond monitoring to provide accountability. When pollution spikes occur, the system uses a custom AI engine to cross-reference PM2.5/PM10 data with industrial databases, identifying the most likely sources with confidence scores and evidence reasoning
