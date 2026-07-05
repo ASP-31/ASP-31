@@ -67,10 +67,14 @@ Currently serving as the **Chairperson of TLE MEC** (Competitive Programming Tea
 * **Talks Team @ IEDC MEC:** Curated high-impact speaker sessions, bridging the gap between industry leaders, tech alumni, and students.
 
 ---
+---
 
 ## 📊 GitHub Stats
-![Arjun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASP-31&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASP-31&layout=compact&theme=radical)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ASP-31&show_icons=true&theme=radical&nocache=true" alt="Arjun's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASP-31&layout=compact&theme=radical&nocache=true" alt="Top Langs" height="180" />
+</p>
 
 ---
 
