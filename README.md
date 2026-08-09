@@ -68,11 +68,11 @@ Currently serving as the **Chairperson of TLE MEC** (Competitive Programming Tea
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASP-31&show_icons=true&theme=radical&nocache=true" alt="Arjun's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASP-31&layout=compact&theme=radical&nocache=true" alt="Top Langs" height="180" />
+  <img src="https://raw.githubusercontent.com/ASP-31/ASP-31/main/metrics.svg" alt="Arjun's GitHub Metrics" />
 </p>
 
 ---
