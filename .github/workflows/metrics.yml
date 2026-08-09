@@ -15,9 +15,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ASP-31
           filename: metrics.svg
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
+          repositories: |
+            ASP-31/Clientsy
+            ASP-31/Codevault
+            ASP-31/AirPro
+            ASP-31/deconstruct.ai
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout: 55
           plugin_languages_limit: 8
-
-      
+          
