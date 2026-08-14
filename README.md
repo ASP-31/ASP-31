@@ -8,7 +8,7 @@ Currently serving as the **Chairperson of TLE MEC** (Competitive Programming Tea
 ---
 
 ## 🏆 Key Achievements
-* **🌍 NASA Space Apps Challenge Global Winner:** Contributed to one of the six winning projects globally, developing a web app to forecast air quality using real-time TEMPO satellite data.
+* **🌍 NASA Space Apps Challenge Global Winner:** Contributed to developing a web app to forecast air quality using real-time TEMPO satellite data.
 * **🥉 Webcraft 2025 Third Prize:** Built a full-stack website from scratch in a 4-hour live competition without using any AI tools.
 * **🧩 Reverse Coding Multi-Finalist:** Two-time finalist (2024 & 2025) in logic-based reverse engineering competitions at Excel, MEC.
 * **🥇 KTU Digital 101 Gold Medalist:** Completed an introductory AI course with top honors.
