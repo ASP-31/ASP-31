@@ -65,6 +65,7 @@ Currently serving as the **Chairperson of TLE MEC** (Competitive Programming Tea
 * **ML Engineering Intern @ Flyrank AI:** Developing and optimizing machine learning solutions in a fast-paced environment.
 * **Chairperson @ TLE MEC:** Leading the premier competitive programming team at Model Engineering College, driving algorithmic design, code optimization, and contest coordination.
 * **Talks Team @ IEDC MEC:** Curated high-impact speaker sessions, bridging the gap between industry leaders, tech alumni, and students.
+* **Web Team @ Mixed Signals MEC**: Cuurently contributing to creation of the website of Mixed Signals MEC.
 
 ---
 
@@ -72,7 +73,10 @@ Currently serving as the **Chairperson of TLE MEC** (Competitive Programming Tea
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/ASP-31/ASP-31/main/metrics.svg" alt="Arjun's GitHub Metrics" />
+  
+![Stats](https://github-readme-stats.shion.dev/api?username=ASP-31&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ASP-31&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
 </p>
 
 ---
