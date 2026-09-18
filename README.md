@@ -85,6 +85,6 @@ Currently serving as the **Chairperson of TLE MEC** (Competitive Programming Tea
 ## 📫 Let's Connect!
 * **LinkedIn:** [Arjun S Pai](https://www.linkedin.com/in/arjun-s-pai-263834327/)
 * **Email:** asp31.2006@gmail.com
-* **Location:** Kerala, India
+* **Location:** Kochi, Kerala, India
 
 *"Code is like humor. When you have to explain it, it's bad."*
