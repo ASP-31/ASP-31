@@ -52,6 +52,10 @@ Currently serving as the **Chairperson of TLE MEC** (Competitive Programming Tea
 ### 🥗 [Wellness Wizard (AI Macro Vision)](https://github.com/ASP-31/Wellness-Wizard)
 * **Description:** A full-stack MERN application that leverages Gemini to provide instant macro-nutritional analysis, real-time progress tracking, and specialized diet-compatibility verdicts directly from food images.
 
+### 🐾 [ParkWatch](https://github.com/ASP-31/ParkWatch)
+* **Description:** An automated community welfare platform built for the Millennium Fellowship to connect Kerala residents with local clinics, veterinarians, and NGOs for streamlined stray animal and wildlife reporting.
+* **Stack:** Full-Stack Web, Interactive Mapping, Cloud Services.
+
 ---
 
 ## ⏳ Where It All Began...
