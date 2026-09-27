@@ -71,7 +71,7 @@ Currently serving as the **Chairperson of TLE MEC** (Competitive Programming Tea
 * **Chairperson @ TLE MEC:** Leading the premier competitive programming team at Model Engineering College, driving algorithmic design, code optimization, and contest coordination.
 * **Talks Team @ IEDC MEC:** Curated high-impact speaker sessions, bridging the gap between industry leaders, tech alumni, and students.
 * **Web Team @ Mixed Signals MEC**: Cuurently contributing to creation of the website of Mixed Signals MEC.
-
+* **Cognifyz Technologies**-Full Stack Developement Intern
 ---
 
 
